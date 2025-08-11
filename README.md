@@ -36,4 +36,12 @@ I primarily work with **Express.js** (Node.js) and **Gin** (Go) frameworks, and 
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abenuterefe&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenuterefe&layout=compact&theme=radical)
+
+
+
 I am always eager to learn new technologies and improve my skills in building reliable and maintainable backend systems.
